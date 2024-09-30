@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @iam-aabid
+- 👀 I’m interested in Data engineering
+- 🌱 I’m currently learning Bigdata 
+- 💞️ I’m looking to collaborate with data science modules
+- 📫 How to reach me - @iam_aabid
+- 😄 Pronouns: Aa-Bid
+- ⚡ Fun fact: I'm spider man :)
